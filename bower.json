@@ -1,0 +1,21 @@
+{
+  "name": "Angular Validando Formulários",
+  "version": "0.0.1",
+  "homepage": "https://github.com/marcelosantos/angular-validando-formulario",
+  "authors": [
+    "marcelosantosadm@gmail.com"
+  ],
+  "description": "Validação de Formulários com Angular JS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0"
+  }
+}
